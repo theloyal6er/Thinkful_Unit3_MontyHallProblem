@@ -2,4 +2,8 @@ Door #1 = 1/3
 Door #2 = 1/3
 Door #3 = 1/3
 
-If you pick door #1, you have a 33% chance of choosing the prize. When the host shows you another door - for example, door #2 - that has no prize, you should always switch. This is because the odds of the prize in door 2 and door 3 is 67% and when the host reveals that one door of the two (in this case, door #2) is a dud, you're basically given an extra 33% by him revealing that prize-less door. Switching should increase your odds to 67% if you switch after the reveal.
+If you pick door #1, you have a 33% chance of choosing the prize. 
+When the host shows you another door - for example, door #2 - that has no prize, you should always switch.
+This is because the odds of the prize in door 2 and door 3 is 67% and when the host reveals that one door of the two 
+(in this case, door #2) is a dud, you're basically given an extra 33% by him revealing that prize-less door.
+Switching should increase your odds to 67% if you switch after the reveal.
